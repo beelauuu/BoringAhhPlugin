@@ -1,0 +1,2 @@
+# BoringAhhPlugin
+Chrome extension allowing users to open up a window of their favorite Minecraft parkour or Subway Surfers while bored. I did not want to pay the $5 to get this on the chrome webstore, but fun proof of concept

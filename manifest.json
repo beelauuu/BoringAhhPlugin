@@ -1,0 +1,16 @@
+{
+  "name": "BoringAhhPlugin",
+  "version": "1.0.0",
+  "description": "Watch some Minecraft Or Subway Surfers when you're bored",
+  "manifest_version": 3,
+  "author": "Brian Lau",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "windows"
+  ],
+  "action": {
+    "default_title": "BoringAhhPlugin",
+    "default_popup": "index.html"
+  }
+}
